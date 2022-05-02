@@ -1,0 +1,135 @@
+2022-04-27 13:19:08: Start
+2022-04-27 13:19:08: Set Settings
+2022-04-27 13:19:08: NO DATA
+2022-04-27 13:19:08: Datasets: 
+2022-04-27 13:19:08: Load paths: 
+	/home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 13:19:08: Dump paths: 
+	/home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 13:19:08: Setup Texify
+2022-04-27 13:19:08: Defined Structure
+2022-04-27 13:19:08: Calculated Operators
+2022-04-27 13:19:08: Saved Data
+2022-04-27 13:19:08: Setup Model
+2022-04-27 13:19:08: Saved Data
+2022-04-27 13:19:08: Fit Data
+2022-04-27 13:19:08: Saved Data
+2022-04-27 13:19:08: Analysed Results
+2022-04-27 13:19:08: Plotted Data
+2022-04-27 13:19:08: Done
+
+2022-04-27 13:22:04: Start
+2022-04-27 13:22:04: Set Settings
+2022-04-27 13:22:04: Imported Data: label_test_fit__loss_weights_l2_0_75_l1_0_25__passes_1__parameter_None__basis_polynomial__order_None__weight_None__approach_indiv__estimator_OLS__solver_svd
+2022-04-27 13:22:04: Datasets: 
+	/home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data: (1352, 455)
+2022-04-27 13:22:04: Load paths: 
+	/home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 13:22:04: Dump paths: 
+	/home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 13:22:04: Setup Texify
+2022-04-27 13:22:04: Defined Structure
+2022-04-27 13:22:04: Calculated Operators
+2022-04-27 13:22:04: Saved Data
+2022-04-27 13:22:04: Setup Model
+2022-04-27 13:22:04: Saved Data
+2022-04-27 13:22:04: Fit Data
+2022-04-27 13:22:04: Saved Data
+2022-04-27 13:22:04: Analysed Results
+2022-04-27 13:22:04: Plotting partial__1__vol_1__time__stencil Loss /home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 13:22:04: Plotting partial__1__vol_1__time__stencil BestFit /home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 13:22:05: Plotted Data
+2022-04-27 13:22:05: Done
+
+2022-04-27 13:22:25: Start
+2022-04-27 13:22:25: Set Settings
+2022-04-27 13:22:25: Imported Data: label_test_fit__loss_weights_l2_0_75_l1_0_25__passes_1__parameter_None__basis_polynomial__order_None__weight_None__approach_indiv__estimator_OLS__solver_svd
+2022-04-27 13:22:25: Datasets: 
+	/home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data: (1352, 455)
+2022-04-27 13:22:25: Load paths: 
+	/home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 13:22:25: Dump paths: 
+	/home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 13:22:25: Setup Texify
+2022-04-27 13:22:25: Defined Structure
+2022-04-27 13:22:25: Calculated Operators
+2022-04-27 13:22:25: Saved Data
+2022-04-27 13:22:25: Setup Model
+2022-04-27 13:22:25: Saved Data
+2022-04-27 13:22:25: Fit Data
+2022-04-27 13:22:25: Saved Data
+2022-04-27 13:22:25: Analysed Results
+2022-04-27 13:22:25: Plotting partial__1__vol_1__time__stencil Loss /home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 13:22:26: Plotting partial__1__vol_1__time__stencil BestFit /home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 13:22:26: Plotted Data
+2022-04-27 13:22:26: Done
+
+2022-04-27 13:48:02: Start
+2022-04-27 13:48:02: Set Settings
+2022-04-27 13:48:02: Imported Data: label_test_fit__loss_weights_l2_0_75_l1_0_25__passes_1__parameter_None__basis_polynomial__order_None__weight_None__approach_indiv__estimator_OLS__solver_svd
+2022-04-27 13:48:02: Datasets: 
+	/home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data: (1352, 455)
+2022-04-27 13:48:02: Load paths: 
+	/home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 13:48:02: Dump paths: 
+	/home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 13:48:02: Setup Texify
+2022-04-27 13:48:02: Defined Structure
+2022-04-27 13:48:02: Calculated Operators
+2022-04-27 13:48:02: Saved Data
+2022-04-27 13:48:02: Setup Model
+2022-04-27 13:48:02: Saved Data
+2022-04-27 13:48:02: Fit Data
+2022-04-27 13:48:02: Saved Data
+2022-04-27 13:48:02: Analysed Results
+2022-04-27 13:48:02: Plotting partial__1__vol_1__time__stencil Loss /home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 13:48:03: Plotting partial__1__vol_1__time__stencil BestFit /home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 13:48:03: Plotted Data
+2022-04-27 13:48:03: Done
+
+2022-04-27 14:26:04: Start
+2022-04-27 14:26:04: Set Settings
+2022-04-27 14:26:04: Imported Data: label_test_fit__loss_weights_l2_0_75_l1_0_25__passes_1__parameter_None__basis_polynomial__order_None__weight_None__approach_indiv__estimator_OLS__solver_svd
+2022-04-27 14:26:04: Datasets: 
+	/home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data: (1352, 455)
+2022-04-27 14:26:04: Load paths: 
+	/home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 14:26:04: Dump paths: 
+	/home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 14:26:04: Setup Texify
+2022-04-27 14:26:04: Defined Structure
+2022-04-27 14:26:04: Calculated Operators
+2022-04-27 14:26:04: Saved Data
+2022-04-27 14:26:04: Setup Model
+2022-04-27 14:26:04: Saved Data
+2022-04-27 14:26:04: Fit Data
+2022-04-27 14:26:04: Saved Data
+2022-04-27 14:26:04: Analysed Results
+2022-04-27 14:26:04: Plotting partial__1__vol_1__time__stencil Loss /home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 14:26:05: Plotting partial__1__vol_1__time__stencil BestFit /home/matt/files/um/code/mechanochem-ml-code/workflows/graph_theoretic_approaches/examples/examples/microstructures/output/data
+2022-04-27 14:26:05: Plotted Data
+2022-04-27 14:26:05: Done
+
+2022-05-01 20:35:33: Start
+2022-05-01 20:35:33: Set Settings
+2022-05-01 20:35:33: Imported Data: label_test_fit__loss_weights_l2_0_75_l1_0_25__passes_1__parameter_None__basis_polynomial__order_None__weight_None__approach_indiv__estimator_OLS__solver_svd
+2022-05-01 20:35:33: Datasets: 
+	/home/sidsriva/Codes/2022/MechanoChem/Non_local_calc/mechanochem-ml-code/examples/microstructures/output/data: (1352, 455)
+2022-05-01 20:35:33: Load paths: 
+	/home/sidsriva/Codes/2022/MechanoChem/Non_local_calc/mechanochem-ml-code/examples/microstructures/output/data
+2022-05-01 20:35:33: Dump paths: 
+	/home/sidsriva/Codes/2022/MechanoChem/Non_local_calc/mechanochem-ml-code/examples/microstructures/output/data
+2022-05-01 20:35:33: Setup Texify
+2022-05-01 20:35:33: Defined Structure
+2022-05-01 20:35:33: Calculated Operators
+2022-05-01 20:35:33: Saved Data
+2022-05-01 20:35:33: Setup Model
+2022-05-01 20:35:33: Saved Data
+2022-05-01 20:35:33: Fit Data
+2022-05-01 20:35:33: Saved Data
+2022-05-01 20:35:33: Analysed Results
+2022-05-01 20:35:33: Plotting partial__1__vol_1__time__stencil Loss /home/sidsriva/Codes/2022/MechanoChem/Non_local_calc/mechanochem-ml-code/examples/microstructures/output/data
+2022-05-01 20:35:34: Plotting partial__1__vol_1__time__stencil BestFit /home/sidsriva/Codes/2022/MechanoChem/Non_local_calc/mechanochem-ml-code/examples/microstructures/output/data
+2022-05-01 20:35:36: Plotted Data
+2022-05-01 20:35:36: Done
+

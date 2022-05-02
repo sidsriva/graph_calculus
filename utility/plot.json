@@ -1,0 +1,34 @@
+{
+	"fig":{
+		"set_size_inches":{"w":15,"h":15},
+		"subplots_adjust":{"wspace":0.5,"hspace":0.5},
+		"tight_layout":{"pad":10}
+		},
+	"ax":{
+		"plot":{
+			"marker":"^",
+			"fillstyle":"full",
+			"markersize":10,
+			"linewidth":3,
+			"alpha":0.8
+		},
+		"set_xlabel":{"xlabel":"","fontsize":45},
+		"set_ylabel":{"ylabel":"coef_","fontsize":45},
+		"set_yoffsetText_fontsize":{"fontsize":30},
+		"set_ynbins":{"nbins":5},
+		"set_xnbins":{"nbins":5},
+		"set_xscale":{"value":"linear"},
+		"set_yscale":{"value":"linear"},
+		"set_ymajor_formatter":{"ticker":"ScalarFormatter"},											
+		"ticklabel_format":{"axis":"y","style":"sci","scilimits":[-2,2]},
+		"tick_params":[
+			{"axis":"x","which":"major","labelsize":45,"length":10,"width":2},
+			{"axis":"x","which":"minor","labelsize":0,"length":5,"width":1},
+			{"axis":"y","which":"major","labelsize":45,"length":10,"width":2},
+			{"axis":"y","which":"minor","labelsize":0,"length":5,"width":1}
+			]
+		},
+	"style":{
+		"rcParams":{"font.size":45}
+		}
+}
