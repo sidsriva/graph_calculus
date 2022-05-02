@@ -14,7 +14,7 @@ logger.setLevel(getattr(logging,log.upper()))
 
 # Global Variables
 CLUSTER = 0
-PATH = '../../../mechanochem-ml-code/'
+PATH = '../..'
 
 
 DELIMETER='__'

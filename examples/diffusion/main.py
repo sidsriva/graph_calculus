@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 
 # Global Variables
 CLUSTER = 0
-PATH = '../../../mechanochem-ml-code/'
+PATH = '../..'
 
 DELIMETER='__'
 MAX_PROCESSES = 1

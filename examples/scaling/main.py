@@ -12,7 +12,7 @@ import matplotlib
 
 # Global Variables
 DELIMETER='__'
-PATH = '../../../mechanochem-ml-code/'
+PATH = '../..'
 
 # Import user modules
 os.environ['mechanoChemML_SRC_DIR']=PATH
