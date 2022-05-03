@@ -1,12 +1,12 @@
 This repo is developed from mechanoChemML library. It is specialized to reproduce results from our publication (Under-review, available on request): 
 
-M. Duschenes, S. Srivastava and K. Garikipati (2022), Reduced order models in physics using non-local calculus on unstructured weighted graphs
+M. Duschenes, S. Srivastava and K. Garikipati (2022), Numerical analysis of non-local calculus on finite weighted graphs, with application to reduced-order modelling of dynamical systems
 
 The original readme from the mechanoChemML library is attached at the end of this file. Same license as the mechanoChemML library is used for this repo.
 
 # Installation
 
-1. donwload the repo
+1. Download the repo
 
 2. use conda to create a virtual env
 
@@ -14,19 +14,23 @@ The original readme from the mechanoChemML library is attached at the end of thi
 
 # Examples
 
-go to the example folder and run: 
-python main.py 
+Example folders:
 
-if input.ini is available run:
-python main.py input.ini
+1. diffusion
+  Allen-Cahn dynamics example. 
+  Run with python main.py
+2. microstructures
+  Coupled Cahn-Hilliard, gradient elasticity  example. 
+  Run with python main.py settings.prm
+3. scaling
+  Modified Taylor series error analysis scaling example. 
+  Run with python main.py
 
-
-
-#########################################################################################################################
 
 # mechanoChemML library
 
 Developed by the [Computational Physics Group](http://www.umich.edu/~compphys/index.html) at the University of Michigan.
+This library was developed within the mechoChemML library framework.
 
 List of contributors (alphabetical order):
 * Arjun Sundararajan
